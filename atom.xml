@@ -6,7 +6,7 @@
   <link href="http://tripedal-crow.github.io/atom.xml" rel="self"/>
   
   <link href="http://tripedal-crow.github.io/"/>
-  <updated>2020-10-20T08:00:14.566Z</updated>
+  <updated>2020-11-24T09:37:45.589Z</updated>
   <id>http://tripedal-crow.github.io/</id>
   
   <author>
@@ -15,6 +15,75 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ralf Schindler - Talk 1 on Logic Summer School of Fudan University, 2020</title>
+    <link href="http://tripedal-crow.github.io/2020/11/24/Talk1/"/>
+    <id>http://tripedal-crow.github.io/2020/11/24/Talk1/</id>
+    <published>2020-11-24T09:29:09.000Z</published>
+    <updated>2020-11-24T09:37:45.589Z</updated>
+    
+    <content type="html"><![CDATA[<p>Content:</p><ul><li>Stationary sets;</li><li>Forcing revisited;</li><li>Forcing Axioms: $\mathbf{MA}$;</li><li>Proper forcing; semi-proper forcing; stationary set preserved forcing;</li><li>$\mathbf{PFA}$, $\mathbf{SPFA}$, $\mathbf{MM}$.</li></ul><a id="more"></a><br><div class="row">    <embed src="https://ivv5hpp.uni-muenster.de/u/rds/Talk1.pdf" width="100%" height="550" type="application/pdf"></div><br>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Content:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stationary sets;&lt;/li&gt;
+&lt;li&gt;Forcing revisited;&lt;/li&gt;
+&lt;li&gt;Forcing Axioms: $\mathbf{MA}$;&lt;/li&gt;
+&lt;li&gt;Proper forcing; semi-proper forcing; stationary set preserved forcing;&lt;/li&gt;
+&lt;li&gt;$\mathbf{PFA}$, $\mathbf{SPFA}$, $\mathbf{MM}$.&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="Notes" scheme="http://tripedal-crow.github.io/categories/Notes/"/>
+    
+    
+    <category term="Set-Theory" scheme="http://tripedal-crow.github.io/tags/Set-Theory/"/>
+    
+    <category term="Talks" scheme="http://tripedal-crow.github.io/tags/Talks/"/>
+    
+    <category term="Ralf-Schindler" scheme="http://tripedal-crow.github.io/tags/Ralf-Schindler/"/>
+    
+    <category term="Fudan-Logic-Summer-School" scheme="http://tripedal-crow.github.io/tags/Fudan-Logic-Summer-School/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ralf Schindler - Talk 2 on Logic Summer School of Fudan University, 2020</title>
+    <link href="http://tripedal-crow.github.io/2020/11/24/Talk2/"/>
+    <id>http://tripedal-crow.github.io/2020/11/24/Talk2/</id>
+    <published>2020-11-24T09:29:09.000Z</published>
+    <updated>2020-11-24T09:37:38.616Z</updated>
+    
+    <content type="html"><![CDATA[<p>Content:</p><ul><li>Restate $\mathbf{PFA}$, $\mathbf{SPFA}$, $\mathbf{MM}$ as well as $\mathbf{PFA}^{++}$, $\mathbf{SPFA}^{++}$, $\mathbf{MM}^{++}$;</li><li>A few words on <em>iterated</em> forcing</li><li>Supercompact Cardinals, Laver functions;</li><li>Forcing $\mathbf{SPFA}^{(++)}$</li><li>Weak reflection principle;</li><li>$\mathbf{MM}\Rightarrow2^{\aleph_1} = \aleph_2$.</li></ul><a id="more"></a><br><div class="row">    <embed src="https://ivv5hpp.uni-muenster.de/u/rds/Talk2.pdf" width="100%" height="550" type="application/pdf"></div><br>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Content:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Restate $\mathbf{PFA}$, $\mathbf{SPFA}$, $\mathbf{MM}$ as well as $\mathbf{PFA}^{++}$, $\mathbf{SPFA}^{++}$, $\mathbf{MM}^{++}$;&lt;/li&gt;
+&lt;li&gt;A few words on &lt;em&gt;iterated&lt;/em&gt; forcing&lt;/li&gt;
+&lt;li&gt;Supercompact Cardinals, Laver functions;&lt;/li&gt;
+&lt;li&gt;Forcing $\mathbf{SPFA}^{(++)}$&lt;/li&gt;
+&lt;li&gt;Weak reflection principle;&lt;/li&gt;
+&lt;li&gt;$\mathbf{MM}\Rightarrow2^{\aleph_1} = \aleph_2$.&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="Notes" scheme="http://tripedal-crow.github.io/categories/Notes/"/>
+    
+    
+    <category term="Set-Theory" scheme="http://tripedal-crow.github.io/tags/Set-Theory/"/>
+    
+    <category term="Talks" scheme="http://tripedal-crow.github.io/tags/Talks/"/>
+    
+    <category term="Ralf-Schindler" scheme="http://tripedal-crow.github.io/tags/Ralf-Schindler/"/>
+    
+    <category term="Fudan-Logic-Summer-School" scheme="http://tripedal-crow.github.io/tags/Fudan-Logic-Summer-School/"/>
+    
+  </entry>
   
   <entry>
     <title>Draft of My Fine Structure Notes</title>
