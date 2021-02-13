@@ -6,7 +6,7 @@
   <link href="http://tripedal-crow.github.io/atom.xml" rel="self"/>
   
   <link href="http://tripedal-crow.github.io/"/>
-  <updated>2021-02-03T15:01:42.000Z</updated>
+  <updated>2021-02-13T14:04:07.223Z</updated>
   <id>http://tripedal-crow.github.io/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Baltic Seminar Notes \# 4</title>
+    <link href="http://tripedal-crow.github.io/2021/02/13/Baltic_4/"/>
+    <id>http://tripedal-crow.github.io/2021/02/13/Baltic_4/</id>
+    <published>2021-02-13T14:02:42.000Z</published>
+    <updated>2021-02-13T14:04:07.223Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><br><div class="row">    <embed src="/pdfs/BS_4.pdf" width="100%" height="550" type="application/pdf"></div><br>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;br&gt;
+
+
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;/pdfs/BS_4.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+	&lt;/div&gt;
+
+
+
+
+</summary>
+      
+    
+    
+    
+    <category term="Notes" scheme="http://tripedal-crow.github.io/categories/Notes/"/>
+    
+    
+    <category term="Seminar-Notes" scheme="http://tripedal-crow.github.io/tags/Seminar-Notes/"/>
+    
+    <category term="Set-Theory" scheme="http://tripedal-crow.github.io/tags/Set-Theory/"/>
+    
+  </entry>
   
   <entry>
     <title>The Baltic Seminar Notes \# 3</title>
