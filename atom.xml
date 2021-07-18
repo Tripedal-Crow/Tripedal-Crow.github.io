@@ -6,7 +6,7 @@
   <link href="http://tripedal-crow.github.io/atom.xml" rel="self"/>
   
   <link href="http://tripedal-crow.github.io/"/>
-  <updated>2021-02-28T19:00:47.920Z</updated>
+  <updated>2021-02-28T19:00:47.000Z</updated>
   <id>http://tripedal-crow.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://tripedal-crow.github.io/2021/03/01/post/"/>
     <id>http://tripedal-crow.github.io/2021/03/01/post/</id>
     <published>2021-02-28T19:00:17.000Z</published>
-    <updated>2021-02-28T19:00:47.920Z</updated>
+    <updated>2021-02-28T19:00:47.000Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a><br><div class="row">    <embed src="/pdfs/BS_6.pdf" width="100%" height="550" type="application/pdf"></div><br>]]></content>
     
@@ -60,7 +60,7 @@
     <link href="http://tripedal-crow.github.io/2021/02/21/Baltic_5/"/>
     <id>http://tripedal-crow.github.io/2021/02/21/Baltic_5/</id>
     <published>2021-02-21T08:54:58.000Z</published>
-    <updated>2021-02-21T08:55:29.824Z</updated>
+    <updated>2021-02-21T08:55:29.000Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a><br><div class="row">    <embed src="/pdfs/BS_5.pdf" width="100%" height="550" type="application/pdf"></div><br>]]></content>
     
@@ -99,7 +99,7 @@
     <link href="http://tripedal-crow.github.io/2021/02/13/Baltic_4/"/>
     <id>http://tripedal-crow.github.io/2021/02/13/Baltic_4/</id>
     <published>2021-02-13T14:02:42.000Z</published>
-    <updated>2021-02-13T14:04:07.223Z</updated>
+    <updated>2021-02-13T14:04:07.000Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a><br><div class="row">    <embed src="/pdfs/BS_4.pdf" width="100%" height="550" type="application/pdf"></div><br>]]></content>
     
@@ -255,7 +255,7 @@
     <link href="http://tripedal-crow.github.io/2020/11/24/Talk1/"/>
     <id>http://tripedal-crow.github.io/2020/11/24/Talk1/</id>
     <published>2020-11-24T09:29:09.000Z</published>
-    <updated>2020-11-24T09:37:45.589Z</updated>
+    <updated>2020-11-24T09:37:45.000Z</updated>
     
     <content type="html"><![CDATA[<p>Content:</p><ul><li>Stationary sets;</li><li>Forcing revisited;</li><li>Forcing Axioms: $\mathbf{MA}$;</li><li>Proper forcing; semi-proper forcing; stationary set preserved forcing;</li><li>$\mathbf{PFA}$, $\mathbf{SPFA}$, $\mathbf{MM}$.</li></ul><a id="more"></a><br><div class="row">    <embed src="https://ivv5hpp.uni-muenster.de/u/rds/Talk1.pdf" width="100%" height="550" type="application/pdf"></div><br>]]></content>
     
@@ -289,7 +289,7 @@
     <link href="http://tripedal-crow.github.io/2020/11/24/Talk2/"/>
     <id>http://tripedal-crow.github.io/2020/11/24/Talk2/</id>
     <published>2020-11-24T09:29:09.000Z</published>
-    <updated>2020-11-24T09:37:38.616Z</updated>
+    <updated>2020-11-24T09:37:38.000Z</updated>
     
     <content type="html"><![CDATA[<p>Content:</p><ul><li>Restate $\mathbf{PFA}$, $\mathbf{SPFA}$, $\mathbf{MM}$ as well as $\mathbf{PFA}^{++}$, $\mathbf{SPFA}^{++}$, $\mathbf{MM}^{++}$;</li><li>A few words on <em>iterated</em> forcing</li><li>Supercompact Cardinals, Laver functions;</li><li>Forcing $\mathbf{SPFA}^{(++)}$</li><li>Weak reflection principle;</li><li>$\mathbf{MM}\Rightarrow2^{\aleph_1} = \aleph_2$.</li></ul><a id="more"></a><br><div class="row">    <embed src="https://ivv5hpp.uni-muenster.de/u/rds/Talk2.pdf" width="100%" height="550" type="application/pdf"></div><br>]]></content>
     
